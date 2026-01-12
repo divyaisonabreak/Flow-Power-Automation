@@ -49,7 +49,6 @@ That’s it.
 
 ## Setup notes
 This repo includes exported Power Automate flows and lightweight documentation.
-> ⚠️ Please don’t commit real student/staff data, internal links, or personal emails.
 
 ## Roadmap
 - [ ] Add Flow 2 (reminders)
