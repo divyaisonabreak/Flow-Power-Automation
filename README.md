@@ -4,7 +4,7 @@ A tiny automation that saves a surprising amount of admin time.
 
 ## The story (aka: why this exists)
 Every pay period, the same thing happens:
-- Everyone is busy (markers, TAs, lab demos).
+- Everyone is busy.
 - Deadlines sneak up.
 - Someone submits late.
 - Then someone else has to chase people down with reminder emails.
@@ -29,7 +29,7 @@ No drama. No guessing. Just consistent process.
 2. Look up the deadline in a SharePoint PayPeriods list
 3. Compare submission time vs deadline
 4. Save the uploaded file as:
-   - `ON_TIME_<filename>` or
+   - `<filename>` or
    - `LATE_<filename>`
 
 ### Flow 2 — Reminder Emails (planned / next)
