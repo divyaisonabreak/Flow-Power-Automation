@@ -62,5 +62,6 @@ This repo includes exported Power Automate flows and lightweight documentation.
 - SharePoint list (PayPeriods)
 - Outlook email (distribution list)
 
-<img width="491" height="731" alt="image" src="https://github.com/user-attachments/assets/0e269117-ad20-4bee-b09a-e696ab3c6b44" />
+<img width="668" height="710" alt="image" src="https://github.com/user-attachments/assets/cfaf11ec-9baf-429e-8a36-62d1be3e6321" />
 
+<img width="681" height="706" alt="image" src="https://github.com/user-attachments/assets/31f6a035-baad-4c05-a72f-a1fe6304daf1" />
